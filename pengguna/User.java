@@ -6,9 +6,9 @@ public class User {
 
 
 
-    public User(String arg_username, String arg_password){
-        this.username = arg_username;
-        this.password = arg_password;
+    public User(String username, String password){
+        this.username = username;
+        this.password = password;
 
     }
 
